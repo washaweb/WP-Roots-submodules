@@ -11,6 +11,7 @@ To begin with this project, simply clone this depot with --recursive mode :
 	git clone https://github.com/washaweb/WP-Roots-submodules.git --recursive
 
 If you what to change the branch from master to the latest stable version of Wordpress :
+
 	cd wordpress
 	git tag
 	
