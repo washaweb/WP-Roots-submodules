@@ -6,12 +6,11 @@ A simple Roots-Wordpress boilerplate with two submodules :
 * Starter theme 'Roots' added as a submodule,
 * Wordpress added as a submodule.
 
-To init and download submodules (if you plan to do it on your own) open a terminal window in the main folder of your project and type :
+To begin with this project, simply clone this depot with --recursive mode :
 
-	git submodule init
-	git submodule update
+	git clone https://github.com/washaweb/WP-Roots-submodules.git --recursive
 
-Change the branch from master to the latest stable version of Wordpress :
+If you what to change the branch from master to the latest stable version of Wordpress :
 	cd wordpress
 	git tag
 	
