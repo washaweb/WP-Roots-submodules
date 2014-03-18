@@ -8,7 +8,7 @@ A simple Roots-Wordpress boilerplate with two submodules :
 
 To start with this project, simply clone depot with --recursive mode in the folder of your choice :
 
-	git clone git@gitlab.espace-clients.com:jcd-dev/wp-roots-submodules.git --recursive .
+	git clone https://github.com/washaweb/WP-Roots-submodules.git --recursive .
 
 
 Lets change Wordpress branch to the latest stable tag :
